@@ -117,6 +117,7 @@ class User
             SELECT
                 CAST(COUNT()), COUNT(DISTINCT())
             FROM
+            
 
         SQL
         )
